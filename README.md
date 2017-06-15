@@ -2,4 +2,4 @@
 springboot+mybatis+freemaker整合
 
 
-如何搭建：http://www.jianshu.com/u/e4396d3bfa48
+如何搭建：http://www.jianshu.com/p/ee0718a32919
