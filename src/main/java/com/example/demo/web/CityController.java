@@ -10,6 +10,10 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import com.example.demo.pojo.City;
 import com.example.demo.service.CityService;
 
+
+/*
+ * SpringMVC控制器
+ * */
 @Controller
 public class CityController {
 
